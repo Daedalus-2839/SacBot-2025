@@ -1,7 +1,7 @@
 # **SacBot 2025 code**
 
 **2025 Code for Sacabambaspis**, team 2839's 'veteran-bot'
-> This is the first project of the Freshman programming team, consisting of:
+> This is the first project of the **Freshman** programming team, consisting of:
 > - [Seamus McManus](https://github.com/Seamus-McManus)
 > - [Dexter Gornick](https://github.com/DexterGornick)
 > - Luke Escobar
